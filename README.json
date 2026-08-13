@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "description": "...and 486 additional genomics skills in the skills/bioskills/, skills/openclaw/, skills/sciagent/ directories.",
+      "items": [],
+      "title": "Genomics"
+    },
+    {
+      "description": "...and 127 additional proteomics skills in the skills/kdense/, skills/openclaw/, skills/sciagent/ directories.",
+      "items": [],
+      "title": "Proteomics"
+    },
+    {
+      "description": "...and 104 additional single-cell analysis skills in the skills/openclaw/, skills/bioskills/, skills/sciagent/ directories.",
+      "items": [],
+      "title": "Single-Cell Analysis"
+    },
+    {
+      "description": "...and 196 additional biology and ai skills in the skills/nobel/, skills/openclaw/, skills/neuroclaw/ directories.",
+      "items": [],
+      "title": "Biology and AI"
+    },
+    {
+      "description": "...and 112 additional clinical and medical skills in the skills/drugclaw/, skills/openclaw/, skills/sciagent/ directories.",
+      "items": [],
+      "title": "Clinical and Medical"
+    },
+    {
+      "description": "...and 57 additional transcriptomics skills in the skills/bioskills/, skills/openclaw/, skills/omicsclaw/ directories.",
+      "items": [],
+      "title": "Transcriptomics"
+    },
+    {
+      "description": "...and 23 additional database query skills in the skills/kdense/, skills/labclaw/, skills/omics/ directories.",
+      "items": [],
+      "title": "Database Query"
+    },
+    {
+      "description": "...and 29 additional multi-omics integration skills in the skills/neuroclaw/, skills/kdense/, skills/bioclaw_hub/ directories.",
+      "items": [],
+      "title": "Multi-Omics Integration"
+    },
+    {
+      "description": "...and 46 additional bioinformatics utilities skills in the skills/neuroclaw/, skills/sciagent/, skills/kdense/ directories.",
+      "items": [],
+      "title": "Bioinformatics Utilities"
+    },
+    {
+      "description": "...and 8 additional visualization skills in the skills/omics/, skills/labclaw/, skills/medgeclaw/ directories.",
+      "items": [],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workflow Orchestration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Epigenomics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pathway Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metagenomics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protein Design"
+    },
+    {
+      "description": "Source: NVIDIA-BioNeMo/bionemo-agent-toolkit · License: Apache-2.0 (code) / CC-BY-4.0 (skills)",
+      "items": [],
+      "title": "NVIDIA BioNeMo Skills"
+    },
+    {
+      "description": "Source: JimLiu/science-skills · License: Apache-2.0 · Reverse-engineered from Claude Science · Synced: (2026-07-01)",
+      "items": [],
+      "title": "Claude Science Skills"
+    },
+    {
+      "description": "This collection aggregates and deduplicates skills from the following open-source repositories:",
+      "items": [],
+      "title": "Sources"
+    },
+    {
+      "description": "Each skill is a self-contained folder with a file defining domain knowledge, tool usage, and expected outputs. Compatible with any Claude-based agent framework supporting the convention.\nQuick install:\nA machine-readable index of all 1,693 skills is available in .",
+      "items": [],
+      "title": "Skill Format"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:21:28.961Z",
+    "original_repository": "BioTender-max/awesome-bio-agent-skills",
+    "original_repository_sha": "8cbdd18837aa6296c4e77616a03b323bd69b57b1",
+    "enhanced_repository": "enhansome/enhansome-bio-agent-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bio Agent Skills with stars"
+  }
+}
