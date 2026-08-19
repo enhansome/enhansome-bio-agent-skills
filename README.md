@@ -7,13 +7,13 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills](https://img.shields.io/badge/skills-1%2C722-22d3ee?style=flat-square)](https://github.com/BioTender-max/awesome-bio-agent-skills/blob/main/bioskill_index_v3.csv) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![Skills](https://img.shields.io/badge/skills-1%2C722-22d3ee?style=flat-square)](https://github.com/BioTender-max/awesome-bio-agent-skills/blob/main/bioskill_index_v3.csv) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 [![Categories](https://img.shields.io/badge/categories-16-818cf8?style=flat-square)](#contents)
 [![Sources](https://img.shields.io/badge/sources-22_repos-34d399?style=flat-square)](#sources)
 [![License](https://img.shields.io/badge/license-CC0-f59e0b?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=f59e0b)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-[![GitHub forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=8b5cf6)](https://github.com/BioTender-max/awesome-bio-agent-skills/network/members) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-[![Lint](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml) ⭐ 156 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![GitHub stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=f59e0b)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![GitHub forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=8b5cf6)](https://github.com/BioTender-max/awesome-bio-agent-skills/network/members) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![Lint](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 
 </div>
 
@@ -41,7 +41,7 @@ bioskill install
 
 Now tracking NVIDIA BioNeMo Agent Toolkit, Claude Science built-in skills, and the emerging ecosystem of agent-callable tools for life sciences.
 
-1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,761 | 🐛 5,777 | 🌐 TypeScript | 📅 2026-08-19, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,550 | 🐛 906 | 🌐 TypeScript | 📅 2026-08-19, [Biomni](https://github.com/Phylo-AI/biomni)).
+1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 386,776 | 🐛 5,776 | 🌐 TypeScript | 📅 2026-08-19, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,550 | 🐛 906 | 🌐 TypeScript | 📅 2026-08-19, [Biomni](https://github.com/Phylo-AI/biomni)).
 
 ***
 
@@ -868,9 +868,9 @@ This collection aggregates and deduplicates skills from the following open-sourc
 | Repository                                                                                                                                                   | Skills | Focus                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -----: | -------------------------------------------------------------------------------------------------------------------------------- |
 | [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) ⚠️ Archived                                                                                      |    536 | Systematic bioinformatics suite from QC to multi-omics.                                                                          |
-| [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,952 \| 🐛 14 \| 🌐 Python \| 📅 2026-07-21 |    359 | Medical AI library aggregating 12 specialized sub-repositories.                                                                  |
+| [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,953 \| 🐛 14 \| 🌐 Python \| 📅 2026-07-21 |    359 | Medical AI library aggregating 12 specialized sub-repositories.                                                                  |
 | [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) ⭐ 338 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-18                                |    154 | Scientific agent skills for statistics, databases, and clinical decisions.                                                       |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 33,886 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-18                   |    102 | General scientific computing and HPC workflow skills.                                                                            |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 33,891 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-18                   |    102 | General scientific computing and HPC workflow skills.                                                                            |
 | [CUHK-AIM-Group/NeuroClaw](https://github.com/CUHK-AIM-Group/NeuroClaw) ⭐ 79 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-26                                           |     86 | Neuroimaging skills: sMRI, fMRI, dMRI, EEG with BIDS, FreeSurfer, FSL, fMRIPrep. CUHK AIM Group.                                 |
 | [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,109 \| 🐛 25 \| 🌐 Python \| 📅 2026-08-19                                                         |     63 | Bioinformatics workflow orchestration for GWAS and single-cell.                                                                  |
 | [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) ⭐ 1,046 \| 🐛 4 \| 📅 2026-03-19                                                                           |     59 | Lab automation and biomedical research skills. Stanford-Princeton AI Co-Scientists.                                              |
@@ -888,7 +888,7 @@ This collection aggregates and deduplicates skills from the following open-sourc
 | [ArcInstitute/SRAgent](https://github.com/ArcInstitute/SRAgent) ⭐ 179 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-24                                                  |      1 | Intelligent SRA and GEO dataset retrieval.                                                                                       |
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) ⭐ 421 \| 🐛 6 \| 🌐 Python \| 📅 2026-08-19                  |     17 | Official NVIDIA BioNeMo NIM skills: Boltz-2, DiffDock, OpenFold2/3, RFdiffusion, ProteinMPNN, GenMol, Evo2, MolMIM, Parabricks.  |
 | [JimLiu/science-skills](https://github.com/JimLiu/science-skills) ⭐ 219 \| 🐛 0 \| 🌐 HTML \| 📅 2026-07-01                                                  |     29 | Reverse-engineered Claude Science built-in skills: structure prediction, design, genomics, single-cell, literature, and compute. |
-| [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) ⭐ 156 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-01              |      1 | Self-referential hub skill that indexes this collection (browse & install entry point).                                          |
+| [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) ⭐ 157 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-01              |      1 | Self-referential hub skill that indexes this collection (browse & install entry point).                                          |
 
 ## Skill Format
 
