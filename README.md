@@ -41,7 +41,7 @@ bioskill install
 
 Now tracking NVIDIA BioNeMo Agent Toolkit, Claude Science built-in skills, and the emerging ecosystem of agent-callable tools for life sciences.
 
-1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,322 | 🐛 5,842 | 🌐 TypeScript | 📅 2026-08-24, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,609 | 🐛 964 | 🌐 TypeScript | 📅 2026-08-24, [Biomni](https://github.com/Phylo-AI/biomni)).
+1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,333 | 🐛 5,851 | 🌐 TypeScript | 📅 2026-08-24, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,608 | 🐛 964 | 🌐 TypeScript | 📅 2026-08-24, [Biomni](https://github.com/Phylo-AI/biomni)).
 
 ***
 
@@ -870,7 +870,7 @@ This collection aggregates and deduplicates skills from the following open-sourc
 | [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) ⚠️ Archived                                                                                      |    536 | Systematic bioinformatics suite from QC to multi-omics.                                                                          |
 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,967 \| 🐛 14 \| 🌐 Python \| 📅 2026-07-21 |    359 | Medical AI library aggregating 12 specialized sub-repositories.                                                                  |
 | [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) ⭐ 342 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-21                                |    154 | Scientific agent skills for statistics, databases, and clinical decisions.                                                       |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,242 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-24                   |    102 | General scientific computing and HPC workflow skills.                                                                            |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,248 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-24                   |    102 | General scientific computing and HPC workflow skills.                                                                            |
 | [CUHK-AIM-Group/NeuroClaw](https://github.com/CUHK-AIM-Group/NeuroClaw) ⭐ 82 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-26                                           |     86 | Neuroimaging skills: sMRI, fMRI, dMRI, EEG with BIDS, FreeSurfer, FSL, fMRIPrep. CUHK AIM Group.                                 |
 | [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,114 \| 🐛 24 \| 🌐 Python \| 📅 2026-08-24                                                         |     63 | Bioinformatics workflow orchestration for GWAS and single-cell.                                                                  |
 | [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) ⭐ 1,048 \| 🐛 4 \| 📅 2026-03-19                                                                           |     59 | Lab automation and biomedical research skills. Stanford-Princeton AI Co-Scientists.                                              |
