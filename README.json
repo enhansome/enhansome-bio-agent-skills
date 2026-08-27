@@ -759,7 +759,7 @@
             "last_commit": "2026-08-15T13:48:11Z",
             "owner": "GPTomics",
             "repo": "bioSkills",
-            "stars": 1194
+            "stars": 1195
           }
         },
         {
@@ -789,7 +789,7 @@
             "last_commit": "2026-08-27T05:17:53Z",
             "owner": "jaechang-hits",
             "repo": "SciAgent-Skills",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-24T09:22:55Z",
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 34996
+            "stars": 35281
           }
         },
         {
@@ -816,7 +816,7 @@
             "archived": false,
             "id": 1191345724,
             "language": "Python",
-            "last_commit": "2026-08-25T08:28:11Z",
+            "last_commit": "2026-08-27T14:16:47Z",
             "owner": "CUHK-AIM-Group",
             "repo": "NeuroClaw",
             "stars": 82
@@ -834,7 +834,7 @@
             "last_commit": "2026-08-27T08:48:55Z",
             "owner": "ClawBio",
             "repo": "ClawBio",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -966,7 +966,7 @@
             "archived": false,
             "id": 1029282950,
             "language": "Python",
-            "last_commit": "2026-08-27T08:36:42Z",
+            "last_commit": "2026-08-27T16:59:31Z",
             "owner": "aristoteleo",
             "repo": "PantheonOS",
             "stars": 481
@@ -984,7 +984,7 @@
             "last_commit": "2026-08-27T07:28:07Z",
             "owner": "EvoScientist",
             "repo": "EvoSkills",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-07-01T21:21:45Z",
             "owner": "BioTender-max",
             "repo": "awesome-bio-agent-skills",
-            "stars": 163
+            "stars": 164
           }
         }
       ],
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:50.956Z",
+    "last_updated": "2026-08-27T22:46:09.102Z",
     "original_repository_info": {
       "archived": false,
       "id": 1249322984,
@@ -1090,7 +1090,7 @@
       "last_commit": "2026-07-01T21:21:45Z",
       "owner": "BioTender-max",
       "repo": "awesome-bio-agent-skills",
-      "stars": 163
+      "stars": 164
     },
     "original_repository_sha": "8cbdd18837aa6296c4e77616a03b323bd69b57b1",
     "enhanced_repository": "enhansome/enhansome-bio-agent-skills",

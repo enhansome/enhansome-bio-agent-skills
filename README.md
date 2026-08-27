@@ -7,13 +7,13 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Skills](https://img.shields.io/badge/skills-1%2C722-22d3ee?style=flat-square)](https://github.com/BioTender-max/awesome-bio-agent-skills/blob/main/bioskill_index_v3.csv) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![Skills](https://img.shields.io/badge/skills-1%2C722-22d3ee?style=flat-square)](https://github.com/BioTender-max/awesome-bio-agent-skills/blob/main/bioskill_index_v3.csv) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 [![Categories](https://img.shields.io/badge/categories-16-818cf8?style=flat-square)](#contents)
 [![Sources](https://img.shields.io/badge/sources-22_repos-34d399?style=flat-square)](#sources)
 [![License](https://img.shields.io/badge/license-CC0-f59e0b?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=f59e0b)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-[![GitHub forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=8b5cf6)](https://github.com/BioTender-max/awesome-bio-agent-skills/network/members) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-07-01
-[![Lint](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml) ⭐ 163 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![GitHub stars](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=f59e0b)](https://github.com/BioTender-max/awesome-bio-agent-skills/stargazers) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![GitHub forks](https://img.shields.io/github/forks/BioTender-max/awesome-bio-agent-skills?style=flat-square\&color=8b5cf6)](https://github.com/BioTender-max/awesome-bio-agent-skills/network/members) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2026-07-01
+[![Lint](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/BioTender-max/awesome-bio-agent-skills/actions/workflows/awesome-lint.yml) ⭐ 164 | 🐛 1 | 🌐 Python | 📅 2026-07-01
 
 </div>
 
@@ -41,7 +41,7 @@ bioskill install
 
 Now tracking NVIDIA BioNeMo Agent Toolkit, Claude Science built-in skills, and the emerging ecosystem of agent-callable tools for life sciences.
 
-1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,779 | 🐛 5,614 | 🌐 TypeScript | 📅 2026-08-27, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,627 | 🐛 1,008 | 🌐 TypeScript | 📅 2026-08-26, [Biomni](https://github.com/Phylo-AI/biomni)).
+1,722 deduplicated skills from 22 open-source repositories, organized into 16 categories. Each skill is a self-contained `SKILL.md` folder compatible with Claude-based agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,840 | 🐛 5,679 | 🌐 TypeScript | 📅 2026-08-27, [NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,626 | 🐛 1,018 | 🌐 TypeScript | 📅 2026-08-27, [Biomni](https://github.com/Phylo-AI/biomni)).
 
 ***
 
@@ -869,10 +869,10 @@ This collection aggregates and deduplicates skills from the following open-sourc
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -----: | -------------------------------------------------------------------------------------------------------------------------------- |
 | [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) ⚠️ Archived                                                                                      |    536 | Systematic bioinformatics suite from QC to multi-omics.                                                                          |
 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,975 \| 🐛 14 \| 🌐 Python \| 📅 2026-07-21 |    359 | Medical AI library aggregating 12 specialized sub-repositories.                                                                  |
-| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) ⭐ 344 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-27                                |    154 | Scientific agent skills for statistics, databases, and clinical decisions.                                                       |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,996 \| 🐛 10 \| 🌐 Python \| 📅 2026-08-24                  |    102 | General scientific computing and HPC workflow skills.                                                                            |
-| [CUHK-AIM-Group/NeuroClaw](https://github.com/CUHK-AIM-Group/NeuroClaw) ⭐ 82 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-25                                           |     86 | Neuroimaging skills: sMRI, fMRI, dMRI, EEG with BIDS, FreeSurfer, FSL, fMRIPrep. CUHK AIM Group.                                 |
-| [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,118 \| 🐛 28 \| 🌐 Python \| 📅 2026-08-27                                                         |     63 | Bioinformatics workflow orchestration for GWAS and single-cell.                                                                  |
+| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) ⭐ 345 \| 🐛 8 \| 🌐 Python \| 📅 2026-08-27                                |    154 | Scientific agent skills for statistics, databases, and clinical decisions.                                                       |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 35,281 \| 🐛 10 \| 🌐 Python \| 📅 2026-08-24                  |    102 | General scientific computing and HPC workflow skills.                                                                            |
+| [CUHK-AIM-Group/NeuroClaw](https://github.com/CUHK-AIM-Group/NeuroClaw) ⭐ 82 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-27                                           |     86 | Neuroimaging skills: sMRI, fMRI, dMRI, EEG with BIDS, FreeSurfer, FSL, fMRIPrep. CUHK AIM Group.                                 |
+| [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) ⭐ 1,119 \| 🐛 30 \| 🌐 Python \| 📅 2026-08-27                                                         |     63 | Bioinformatics workflow orchestration for GWAS and single-cell.                                                                  |
 | [wu-yc/LabClaw](https://github.com/wu-yc/LabClaw) ⭐ 1,048 \| 🐛 4 \| 📅 2026-03-19                                                                           |     59 | Lab automation and biomedical research skills. Stanford-Princeton AI Co-Scientists.                                              |
 | [QSong-github/DrugClaw](https://github.com/QSong-github/DrugClaw) ⭐ 115 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-25                                                |     57 | Drug intelligence skills: DTI, ADR, DDI, pharmacogenomics, repurposing. LangGraph-powered.                                       |
 | [ChrisLou-bioinfo/nobel-medicine-minds](https://github.com/ChrisLou-bioinfo/nobel-medicine-minds) ⭐ 22 \| 🐛 0 \| 📅 2026-04-06                              |     55 | Cognitive frameworks of 52 Nobel Medicine laureates (2004–2025) as runnable SKILL.md files.                                      |
@@ -882,13 +882,13 @@ This collection aggregates and deduplicates skills from the following open-sourc
 | [TianGzlab/OmicsClaw](https://github.com/TianGzlab/OmicsClaw) ⭐ 157 \| 🐛 8 \| 🌐 Python \| 📅 2026-07-28                                                    |     28 | 6-omics domain skills: spatial, scRNA-seq, bulk RNA-seq, genomics, proteomics, metabolomics.                                     |
 | [adaptyvbio/protein-design-skills](https://github.com/adaptyvbio/protein-design-skills) ⭐ 156 \| 🐛 2 \| 📅 2026-06-11                                       |     21 | Full protein design toolkit: RFDiffusion, ProteinMPNN, Boltz, Chai.                                                              |
 | [aristoteleo/PantheonOS](https://github.com/aristoteleo/PantheonOS) ⭐ 481 \| 🐛 21 \| 🌐 Python \| 📅 2026-08-27                                             |     18 | Single-cell and spatial transcriptomics skills. Dynamo/Spateo team.                                                              |
-| [EvoScientist/EvoSkills](https://github.com/EvoScientist/EvoSkills) ⭐ 428 \| 🐛 9 \| 🌐 Python \| 📅 2026-08-27                                              |     13 | Research-lifecycle skills: ideation, paper planning, experiment execution, writing, and review.                                  |
+| [EvoScientist/EvoSkills](https://github.com/EvoScientist/EvoSkills) ⭐ 429 \| 🐛 9 \| 🌐 Python \| 📅 2026-08-27                                              |     13 | Research-lifecycle skills: ideation, paper planning, experiment execution, writing, and review.                                  |
 | [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) ⭐ 641 \| 🐛 6 \| 🌐 TeX \| 📅 2026-03-12                                                           |      7 | Biomedical research skills with real-time dashboard, RStudio, and JupyterLab integration.                                        |
 | [zamushwani2/biomedical-ai-skills](https://github.com/zamushwani2/biomedical-ai-skills) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2026-08-26                            |      4 | Cancer multi-omics analysis skills in R.                                                                                         |
 | [ArcInstitute/SRAgent](https://github.com/ArcInstitute/SRAgent) ⭐ 181 \| 🐛 3 \| 🌐 Python \| 📅 2026-07-24                                                  |      1 | Intelligent SRA and GEO dataset retrieval.                                                                                       |
 | [NVIDIA-BioNeMo/bionemo-agent-toolkit](https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit) ⭐ 434 \| 🐛 5 \| 🌐 Python \| 📅 2026-08-27                  |     17 | Official NVIDIA BioNeMo NIM skills: Boltz-2, DiffDock, OpenFold2/3, RFdiffusion, ProteinMPNN, GenMol, Evo2, MolMIM, Parabricks.  |
 | [JimLiu/science-skills](https://github.com/JimLiu/science-skills) ⭐ 221 \| 🐛 0 \| 🌐 HTML \| 📅 2026-07-01                                                  |     29 | Reverse-engineered Claude Science built-in skills: structure prediction, design, genomics, single-cell, literature, and compute. |
-| [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) ⭐ 163 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-01              |      1 | Self-referential hub skill that indexes this collection (browse & install entry point).                                          |
+| [BioTender-max/awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) ⭐ 164 \| 🐛 1 \| 🌐 Python \| 📅 2026-07-01              |      1 | Self-referential hub skill that indexes this collection (browse & install entry point).                                          |
 
 ## Skill Format
 
