@@ -4,6 +4,370 @@
       "description": "17 skills — Official NVIDIA BioNeMo NIM API skills for protein structure prediction, molecular generation, and genomics.",
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "boltz2-nim",
+              "description": "NIM API Boltz-2 biomolecular structure prediction via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "diffdock-nim",
+              "description": "NIM API DiffDock molecular docking via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "evo2-nim",
+              "description": "NIM API Evo2 genomic foundation model inference via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "genmol-nim",
+              "description": "NIM API GenMol molecule generation via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "molmim-nim",
+              "description": "NIM API MolMIM controlled molecular generation via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "msa-search-nim",
+              "description": "NIM API MSA search for protein structure prediction via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openfold2-nim",
+              "description": "NIM API OpenFold2 protein structure prediction via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openfold3-nim",
+              "description": "NIM API OpenFold3 biomolecular complex structure prediction via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "proteinmpnn-nim",
+              "description": "NIM API ProteinMPNN inverse folding / sequence design via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "rfdiffusion-nim",
+              "description": "NIM API RFdiffusion protein backbone design via NVIDIA NIM API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "proteina-complexa",
+              "description": "Open Model NVIDIA Proteina protein complex structure prediction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kermt",
+              "description": "Open Model NVIDIA KERMT kernel estimation for molecular simulation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cuEquivariance",
+              "description": "Library GPU-accelerated equivariant neural network operations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "genomics-workflow-acceleration",
+              "description": "Library Parabricks-powered GPU genomics pipeline acceleration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nvMolKit",
+              "description": "Library NVIDIA molecular toolkit for cheminformatics and property prediction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "parabricks",
+              "description": "Library NVIDIA Parabricks GPU-accelerated GATK4 variant calling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "generative-protein-binder-design",
+              "description": "Workflow Multi-step binder design: RFdiffusion → ProteinMPNN → OpenFold3 via NIM APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+                "homepage": null,
+                "id": 1277544698,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-03T00:08:12Z",
+                "open_issues": 9,
+                "owner": "NVIDIA-BioNeMo",
+                "repo": "bionemo-agent-toolkit",
+                "stars": 472,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "View all 17 skills"
+        },
+        {
           "node_type": "item",
           "title": "Source: NVIDIA-BioNeMo/bionemo-agent-toolkit",
           "description": "License: Apache-2.0 (code) / CC-BY-4.0 (skills)",
@@ -15,8 +379,8 @@
             "id": 1277544698,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T00:08:12Z",
+            "open_issues": 9,
             "owner": "NVIDIA-BioNeMo",
             "repo": "bionemo-agent-toolkit",
             "stars": 472,
@@ -28,371 +392,624 @@
       "title": "NVIDIA BioNeMo Skills"
     },
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "boltz2-nim",
-          "description": "NIM API Boltz-2 biomolecular structure prediction via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "diffdock-nim",
-          "description": "NIM API DiffDock molecular docking via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "evo2-nim",
-          "description": "NIM API Evo2 genomic foundation model inference via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "genmol-nim",
-          "description": "NIM API GenMol molecule generation via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "molmim-nim",
-          "description": "NIM API MolMIM controlled molecular generation via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "msa-search-nim",
-          "description": "NIM API MSA search for protein structure prediction via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openfold2-nim",
-          "description": "NIM API OpenFold2 protein structure prediction via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openfold3-nim",
-          "description": "NIM API OpenFold3 biomolecular complex structure prediction via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "proteinmpnn-nim",
-          "description": "NIM API ProteinMPNN inverse folding / sequence design via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rfdiffusion-nim",
-          "description": "NIM API RFdiffusion protein backbone design via NVIDIA NIM API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "proteina-complexa",
-          "description": "Open Model NVIDIA Proteina protein complex structure prediction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "kermt",
-          "description": "Open Model NVIDIA KERMT kernel estimation for molecular simulation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cuEquivariance",
-          "description": "Library GPU-accelerated equivariant neural network operations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "genomics-workflow-acceleration",
-          "description": "Library Parabricks-powered GPU genomics pipeline acceleration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nvMolKit",
-          "description": "Library NVIDIA molecular toolkit for cheminformatics and property prediction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "parabricks",
-          "description": "Library NVIDIA Parabricks GPU-accelerated GATK4 variant calling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "generative-protein-binder-design",
-          "description": "Workflow Multi-step binder design: RFdiffusion → ProteinMPNN → OpenFold3 via NIM APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-            "homepage": null,
-            "id": 1277544698,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
-            "owner": "NVIDIA-BioNeMo",
-            "repo": "bionemo-agent-toolkit",
-            "stars": 472,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        }
-      ],
-      "title": "View all 17 skills"
-    },
-    {
       "description": "29 skills — Reverse-engineered Claude Science built-in skills covering biomolecular modeling, genomics, single-cell analysis, literature synthesis, and scientific compute workflows.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "alphafold2",
+              "description": "Structure AlphaFold2 monomer/multimer structure prediction via ColabFold runner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "boltz",
+              "description": "Structure Boltz-2 structure prediction for protein, nucleic-acid, and small-molecule complexes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "chai1",
+              "description": "Structure Chai-1 foundation model structure prediction for biomolecular complexes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "esmfold2",
+              "description": "Structure ESMFold2/ESMFold2-Fast all-atom co-folding with optional MSA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openfold3",
+              "description": "Structure OpenFold3 open-weights PyTorch reproduction of AlphaFold3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fair-esm2",
+              "description": "Embeddings Meta AI ESM-2 per-residue and per-sequence protein embeddings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "diffdock",
+              "description": "Docking DiffDock-L blind diffusion-based small-molecule pose prediction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ligandmpnn",
+              "description": "Design LigandMPNN inverse folding with ligand, nucleic-acid, and metal context.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "proteinmpnn",
+              "description": "Design ProteinMPNN inverse folding from PDB backbone to amino-acid sequences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "solublempnn",
+              "description": "Design SolubleMPNN solubility-biased inverse folding for expression-friendly designs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "evo2",
+              "description": "Genomics Evo 2 long-context genomic foundation model for scoring, embedding, and generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "borzoi",
+              "description": "Genomics Borzoi genome-wide functional track prediction (RNA-seq, CAGE, DNase, ChIP) from DNA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "scgpt",
+              "description": "Single-Cell scGPT single-cell expression embedding and annotation with a foundation model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "scvi-tools",
+              "description": "Single-Cell scVI/scANVI probabilistic single-cell RNA-seq: batch correction, annotation, integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "literature-review",
+              "description": "Analysis Scientific literature search, verification, and synthesis from DOI or query.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "indication-dossier",
+              "description": "Analysis Therapeutic indication dossier: epidemiology, disease biology, regulatory, trials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "paper-narrative",
+              "description": "Analysis Judge and reshape the story a paper's figures tell; narrative coherence analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pdf-explore",
+              "description": "Analysis Deep PDF reading with annotation, cross-referencing, and structured extraction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "figure-composer",
+              "description": "Visualization Compose publication-grade multi-panel figures from data references and claims.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "figure-style",
+              "description": "Visualization Publication figure correctness and legibility rules; applies to any plot output.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "compute-env-setup",
+              "description": "Compute Set up and configure remote compute environments for Claude Science jobs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "remote-compute-modal",
+              "description": "Compute Run GPU jobs on the user's Modal account via BYOC provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "remote-compute-ssh",
+              "description": "Compute Submit→wait→harvest workflow for SSH/SLURM HPC hosts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "managed-model-endpoints",
+              "description": "Compute Register and manage local model server containers as named endpoints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "using-model-endpoint",
+              "description": "Compute Call registered model endpoints over their native HTTP API from inference kernels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "customize",
+              "description": "Meta Create and configure custom agent profiles; author new skills via the repl tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "skill-creator",
+              "description": "Meta Create, modify, benchmark, and improve skills with eval pipeline and scoring.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "self-awareness",
+              "description": "Meta Claude Science session database schema and SDK introspection surface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            },
+            {
+              "node_type": "item",
+              "title": "product-self-knowledge",
+              "description": "Meta Authoritative Claude Science factual self-knowledge; load before answering product questions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1286274231,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-07-01T16:11:40Z",
+                "open_issues": 0,
+                "owner": "JimLiu",
+                "repo": "science-skills",
+                "stars": 227,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:52:17.100Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "View all 29 skills"
+        },
         {
           "node_type": "item",
           "title": "Source: JimLiu/science-skills",
@@ -418,621 +1035,6 @@
       "title": "Claude Science Skills"
     },
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "alphafold2",
-          "description": "Structure AlphaFold2 monomer/multimer structure prediction via ColabFold runner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "boltz",
-          "description": "Structure Boltz-2 structure prediction for protein, nucleic-acid, and small-molecule complexes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "chai1",
-          "description": "Structure Chai-1 foundation model structure prediction for biomolecular complexes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "esmfold2",
-          "description": "Structure ESMFold2/ESMFold2-Fast all-atom co-folding with optional MSA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "openfold3",
-          "description": "Structure OpenFold3 open-weights PyTorch reproduction of AlphaFold3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fair-esm2",
-          "description": "Embeddings Meta AI ESM-2 per-residue and per-sequence protein embeddings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "diffdock",
-          "description": "Docking DiffDock-L blind diffusion-based small-molecule pose prediction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ligandmpnn",
-          "description": "Design LigandMPNN inverse folding with ligand, nucleic-acid, and metal context.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "proteinmpnn",
-          "description": "Design ProteinMPNN inverse folding from PDB backbone to amino-acid sequences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "solublempnn",
-          "description": "Design SolubleMPNN solubility-biased inverse folding for expression-friendly designs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "evo2",
-          "description": "Genomics Evo 2 long-context genomic foundation model for scoring, embedding, and generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "borzoi",
-          "description": "Genomics Borzoi genome-wide functional track prediction (RNA-seq, CAGE, DNase, ChIP) from DNA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scgpt",
-          "description": "Single-Cell scGPT single-cell expression embedding and annotation with a foundation model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "scvi-tools",
-          "description": "Single-Cell scVI/scANVI probabilistic single-cell RNA-seq: batch correction, annotation, integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "literature-review",
-          "description": "Analysis Scientific literature search, verification, and synthesis from DOI or query.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "indication-dossier",
-          "description": "Analysis Therapeutic indication dossier: epidemiology, disease biology, regulatory, trials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "paper-narrative",
-          "description": "Analysis Judge and reshape the story a paper's figures tell; narrative coherence analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pdf-explore",
-          "description": "Analysis Deep PDF reading with annotation, cross-referencing, and structured extraction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "figure-composer",
-          "description": "Visualization Compose publication-grade multi-panel figures from data references and claims.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "figure-style",
-          "description": "Visualization Publication figure correctness and legibility rules; applies to any plot output.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "compute-env-setup",
-          "description": "Compute Set up and configure remote compute environments for Claude Science jobs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "remote-compute-modal",
-          "description": "Compute Run GPU jobs on the user's Modal account via BYOC provider.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "remote-compute-ssh",
-          "description": "Compute Submit→wait→harvest workflow for SSH/SLURM HPC hosts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "managed-model-endpoints",
-          "description": "Compute Register and manage local model server containers as named endpoints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "using-model-endpoint",
-          "description": "Compute Call registered model endpoints over their native HTTP API from inference kernels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "customize",
-          "description": "Meta Create and configure custom agent profiles; author new skills via the repl tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "skill-creator",
-          "description": "Meta Create, modify, benchmark, and improve skills with eval pipeline and scoring.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "self-awareness",
-          "description": "Meta Claude Science session database schema and SDK introspection surface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "product-self-knowledge",
-          "description": "Meta Authoritative Claude Science factual self-knowledge; load before answering product questions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1286274231,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-07-01T16:11:40Z",
-            "open_issues": 0,
-            "owner": "JimLiu",
-            "repo": "science-skills",
-            "stars": 227,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
-        }
-      ],
-      "title": "View all 29 skills"
-    },
-    {
       "description": "This collection aggregates and deduplicates skills from the following open-source repositories:",
       "items": [
         {
@@ -1051,7 +1053,7 @@
             "open_issues": 0,
             "owner": "GPTomics",
             "repo": "bioSkills",
-            "stars": 1210,
+            "stars": 1212,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1141,10 +1143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T22:42:43Z",
-            "open_issues": 28,
+            "open_issues": 21,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 47361,
+            "stars": 47397,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1201,7 +1203,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T14:40:06Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "ClawBio",
             "repo": "ClawBio",
             "stars": 1150,
@@ -1482,7 +1484,7 @@
             "open_issues": 6,
             "owner": "EvoScientist",
             "repo": "EvoSkills",
-            "stars": 460,
+            "stars": 468,
             "topics": [
               "ai-agent",
               "ai4science",
@@ -1587,8 +1589,8 @@
             "id": 1277544698,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:09:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T00:08:12Z",
+            "open_issues": 9,
             "owner": "NVIDIA-BioNeMo",
             "repo": "bionemo-agent-toolkit",
             "stars": 472,
@@ -1616,55 +1618,13 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BioTender-max/awesome-bio-agent-skills",
-          "description": "1 Self-referential hub skill that indexes this collection (browse & install entry point).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
-            "homepage": "https://biotender-max.github.io/awesome-bio-agent-skills/",
-            "id": 1249322984,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-07-01T21:21:45Z",
-            "open_issues": 1,
-            "owner": "BioTender-max",
-            "repo": "awesome-bio-agent-skills",
-            "stars": 195,
-            "topics": [
-              "agent-skills",
-              "ai-agent",
-              "ai-agents",
-              "awesome",
-              "awesome-list",
-              "bioinformatics",
-              "biomedical",
-              "claude",
-              "claude-code",
-              "claude-skills",
-              "computational-biology",
-              "drug-discovery",
-              "genomics",
-              "llm",
-              "mcp",
-              "protein-design",
-              "proteomics",
-              "single-cell",
-              "skills",
-              "transcriptomics"
-            ]
-          },
-          "first_seen": "2026-08-28T22:52:17.100Z"
         }
       ],
       "title": "Sources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:12:06.141Z",
+    "last_updated": "2026-10-03T04:34:58.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
