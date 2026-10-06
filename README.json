@@ -1074,7 +1074,7 @@
             "open_issues": 14,
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 3047,
+            "stars": 3048,
             "topics": [
               "awesome",
               "claude-code",
@@ -1146,7 +1146,7 @@
             "open_issues": 21,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 47685,
+            "stars": 47742,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1202,8 +1202,8 @@
             "id": 1166871123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:37:57Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-06T08:50:14Z",
+            "open_issues": 45,
             "owner": "ClawBio",
             "repo": "ClawBio",
             "stars": 1152,
@@ -1442,8 +1442,8 @@
             "id": 1029282950,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T15:58:34Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-05T21:20:47Z",
+            "open_issues": 25,
             "owner": "aristoteleo",
             "repo": "PantheonOS",
             "stars": 487,
@@ -1484,7 +1484,7 @@
             "open_issues": 6,
             "owner": "EvoScientist",
             "repo": "EvoSkills",
-            "stars": 472,
+            "stars": 474,
             "topics": [
               "ai-agent",
               "ai4science",
@@ -1624,7 +1624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:14:46.002Z",
+    "last_updated": "2026-10-06T10:47:15.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
@@ -1636,7 +1636,7 @@
       "open_issues": 1,
       "owner": "BioTender-max",
       "repo": "awesome-bio-agent-skills",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "agent-skills",
         "ai-agent",
