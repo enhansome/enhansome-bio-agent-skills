@@ -1053,7 +1053,7 @@
             "open_issues": 0,
             "owner": "GPTomics",
             "repo": "bioSkills",
-            "stars": 1223,
+            "stars": 1224,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 15,
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 3070,
+            "stars": 3073,
             "topics": [
               "awesome",
               "claude-code",
@@ -1104,7 +1104,7 @@
             "open_issues": 6,
             "owner": "jaechang-hits",
             "repo": "SciAgent-Skills",
-            "stars": 379,
+            "stars": 380,
             "topics": [
               "ai-agent",
               "bioinformatics",
@@ -1143,10 +1143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-15T23:57:39Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 52058,
+            "stars": 52608,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1202,11 +1202,11 @@
             "id": 1166871123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T13:26:41Z",
+            "last_commit": "2026-10-18T15:23:33Z",
             "open_issues": 43,
             "owner": "ClawBio",
             "repo": "ClawBio",
-            "stars": 1159,
+            "stars": 1161,
             "topics": [
               "ai-agents",
               "bioinformatics",
@@ -1257,7 +1257,7 @@
             "open_issues": 0,
             "owner": "QSong-github",
             "repo": "DrugClaw",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "drug-discovery",
               "knowledge-graph",
@@ -1624,7 +1624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:07:30.465Z",
+    "last_updated": "2026-10-18T16:20:24.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
