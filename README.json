@@ -1053,7 +1053,7 @@
             "open_issues": 0,
             "owner": "GPTomics",
             "repo": "bioSkills",
-            "stars": 1228,
+            "stars": 1229,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1143,10 +1143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-26T09:36:15Z",
-            "open_issues": 74,
+            "open_issues": 76,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 55388,
+            "stars": 55519,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1181,8 +1181,8 @@
             "id": 1166871123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T18:01:00Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-31T08:54:44Z",
+            "open_issues": 49,
             "owner": "ClawBio",
             "repo": "ClawBio",
             "stars": 1171,
@@ -1421,7 +1421,7 @@
             "id": 1029282950,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-30T17:27:33Z",
+            "last_commit": "2026-10-31T06:27:42Z",
             "open_issues": 25,
             "owner": "aristoteleo",
             "repo": "PantheonOS",
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:24:40.142Z",
+    "last_updated": "2026-10-31T17:29:48.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
@@ -1615,7 +1615,7 @@
       "open_issues": 2,
       "owner": "BioTender-max",
       "repo": "awesome-bio-agent-skills",
-      "stars": 211,
+      "stars": 212,
       "topics": [
         "agent-skills",
         "ai-agent",
