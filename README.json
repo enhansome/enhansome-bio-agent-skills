@@ -1053,7 +1053,7 @@
             "open_issues": 0,
             "owner": "GPTomics",
             "repo": "bioSkills",
-            "stars": 1231,
+            "stars": 1233,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 15,
             "owner": "FreedomIntelligence",
             "repo": "OpenClaw-Medical-Skills",
-            "stars": 3092,
+            "stars": 3093,
             "topics": [
               "awesome",
               "claude-code",
@@ -1104,7 +1104,7 @@
             "open_issues": 7,
             "owner": "jaechang-hits",
             "repo": "SciAgent-Skills",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "ai-agent",
               "bioinformatics",
@@ -1143,10 +1143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T09:23:27Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 56101,
+            "stars": 56212,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1181,11 +1181,11 @@
             "id": 1166871123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T14:11:00Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-05T19:05:00Z",
+            "open_issues": 54,
             "owner": "ClawBio",
             "repo": "ClawBio",
-            "stars": 1173,
+            "stars": 1175,
             "topics": [
               "ai-agents",
               "bioinformatics",
@@ -1421,7 +1421,7 @@
             "id": 1029282950,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-04T20:09:24Z",
+            "last_commit": "2026-11-05T20:22:37Z",
             "open_issues": 26,
             "owner": "aristoteleo",
             "repo": "PantheonOS",
@@ -1463,7 +1463,7 @@
             "open_issues": 5,
             "owner": "EvoScientist",
             "repo": "EvoSkills",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "ai-agent",
               "ai4science",
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:16:02.084Z",
+    "last_updated": "2026-11-05T20:27:56.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
