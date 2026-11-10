@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -42,7 +42,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -84,7 +84,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -105,7 +105,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -126,7 +126,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -147,7 +147,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -168,7 +168,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -189,7 +189,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -210,7 +210,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -231,7 +231,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -252,7 +252,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -273,7 +273,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -294,7 +294,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -315,7 +315,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -336,7 +336,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -357,7 +357,7 @@
                 "open_issues": 6,
                 "owner": "NVIDIA-BioNeMo",
                 "repo": "bionemo-agent-toolkit",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:17.100Z"
@@ -383,7 +383,7 @@
             "open_issues": 6,
             "owner": "NVIDIA-BioNeMo",
             "repo": "bionemo-agent-toolkit",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1143,10 +1143,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-09T09:17:48Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 56603,
+            "stars": 56727,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -1181,8 +1181,8 @@
             "id": 1166871123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T19:44:19Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-10T16:12:21Z",
+            "open_issues": 47,
             "owner": "ClawBio",
             "repo": "ClawBio",
             "stars": 1176,
@@ -1333,7 +1333,7 @@
             "id": 1147617618,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:05:56Z",
+            "last_commit": "2026-11-10T06:21:43Z",
             "open_issues": 3,
             "owner": "fmschulz",
             "repo": "omics-skills",
@@ -1425,7 +1425,7 @@
             "open_issues": 29,
             "owner": "aristoteleo",
             "repo": "PantheonOS",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "agent",
               "ai",
@@ -1572,7 +1572,7 @@
             "open_issues": 6,
             "owner": "NVIDIA-BioNeMo",
             "repo": "bionemo-agent-toolkit",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-28T22:52:17.100Z"
@@ -1603,7 +1603,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:51:26.998Z",
+    "last_updated": "2026-11-10T20:11:54.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of AI agent skills for biomedical research, covering genomics, proteomics, single-cell analysis, clinical AI, and protein design.",
